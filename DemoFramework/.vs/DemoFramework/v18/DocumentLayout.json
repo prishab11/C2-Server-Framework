@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|c:\\users\\jcb\\onedrive\\desktop\\final c2 server tut\\2. team server-20260219t171250z-1-001\\2. team server\\10. frameworkaftervideo5-211209-110217\\demoframework\\teamserver\\models\\listeners\\httplistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|solutionrelative:teamserver\\models\\listeners\\httplistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|c:\\users\\jcb\\onedrive\\desktop\\final c2 server tut\\2. team server-20260219t171250z-1-001\\2. team server\\10. frameworkaftervideo5-211209-110217\\demoframework\\teamserver\\models\\listeners\\httplistenercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|solutionrelative:teamserver\\models\\listeners\\httplistenercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|c:\\users\\jcb\\onedrive\\desktop\\final c2 server tut\\2. team server-20260219t171250z-1-001\\2. team server\\10. frameworkaftervideo5-211209-110217\\demoframework\\teamserver\\controllers\\listenerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|solutionrelative:teamserver\\controllers\\listenerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|c:\\users\\jcb\\onedrive\\desktop\\final c2 server tut\\2. team server-20260219t171250z-1-001\\2. team server\\10. frameworkaftervideo5-211209-110217\\demoframework\\teamserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|solutionrelative:teamserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCDBC0D-589F-4527-8657-22AB8C7981C0}|Agent\\Agent.csproj|c:\\users\\jcb\\onedrive\\desktop\\final c2 server tut\\2. team server-20260219t171250z-1-001\\2. team server\\10. frameworkaftervideo5-211209-110217\\demoframework\\agent\\models\\httpcommmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCDBC0D-589F-4527-8657-22AB8C7981C0}|Agent\\Agent.csproj|solutionrelative:agent\\models\\httpcommmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCDBC0D-589F-4527-8657-22AB8C7981C0}|Agent\\Agent.csproj|c:\\users\\jcb\\onedrive\\desktop\\final c2 server tut\\2. team server-20260219t171250z-1-001\\2. team server\\10. frameworkaftervideo5-211209-110217\\demoframework\\agent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCDBC0D-589F-4527-8657-22AB8C7981C0}|Agent\\Agent.csproj|solutionrelative:agent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782ECD07-BABA-441C-9D7E-3C56F72D5F3A}|ApiModules\\ApiModules.csproj|c:\\users\\jcb\\onedrive\\desktop\\final c2 server tut\\2. team server-20260219t171250z-1-001\\2. team server\\10. frameworkaftervideo5-211209-110217\\demoframework\\apimodules\\apimodules.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{782ECD07-BABA-441C-9D7E-3C56F72D5F3A}|ApiModules\\ApiModules.csproj|solutionrelative:apimodules\\apimodules.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782ECD07-BABA-441C-9D7E-3C56F72D5F3A}|ApiModules\\ApiModules.csproj|c:\\users\\jcb\\onedrive\\desktop\\final c2 server tut\\2. team server-20260219t171250z-1-001\\2. team server\\10. frameworkaftervideo5-211209-110217\\demoframework\\apimodules\\crypto\\aesencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782ECD07-BABA-441C-9D7E-3C56F72D5F3A}|ApiModules\\ApiModules.csproj|solutionrelative:apimodules\\crypto\\aesencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|c:\\users\\jcb\\onedrive\\desktop\\final c2 server tut\\2. team server-20260219t171250z-1-001\\2. team server\\10. frameworkaftervideo5-211209-110217\\demoframework\\teamserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|solutionrelative:teamserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|c:\\users\\jcb\\onedrive\\desktop\\final c2 server tut\\2. team server-20260219t171250z-1-001\\2. team server\\10. frameworkaftervideo5-211209-110217\\demoframework\\teamserver\\controllers\\agentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|solutionrelative:teamserver\\controllers\\agentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|c:\\users\\jcb\\onedrive\\desktop\\final c2 server tut\\2. team server-20260219t171250z-1-001\\2. team server\\10. frameworkaftervideo5-211209-110217\\demoframework\\teamserver\\middleware\\requiresapikeyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|solutionrelative:teamserver\\middleware\\requiresapikeyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|c:\\users\\jcb\\onedrive\\desktop\\final c2 server tut\\2. team server-20260219t171250z-1-001\\2. team server\\10. frameworkaftervideo5-211209-110217\\demoframework\\teamserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|solutionrelative:teamserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|c:\\users\\jcb\\onedrive\\desktop\\final c2 server tut\\2. team server-20260219t171250z-1-001\\2. team server\\10. frameworkaftervideo5-211209-110217\\demoframework\\teamserver\\middleware\\apikeymiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|solutionrelative:teamserver\\middleware\\apikeymiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|c:\\users\\jcb\\onedrive\\desktop\\final c2 server tut\\2. team server-20260219t171250z-1-001\\2. team server\\10. frameworkaftervideo5-211209-110217\\demoframework\\teamserver\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|solutionrelative:teamserver\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|c:\\users\\jcb\\onedrive\\desktop\\final c2 server tut\\2. team server-20260219t171250z-1-001\\2. team server\\10. frameworkaftervideo5-211209-110217\\demoframework\\teamserver\\teamserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|solutionrelative:teamserver\\teamserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|c:\\users\\jcb\\onedrive\\desktop\\final c2 server tut\\2. team server-20260219t171250z-1-001\\2. team server\\10. frameworkaftervideo5-211209-110217\\demoframework\\teamserver\\models\\agents\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|solutionrelative:teamserver\\models\\agents\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|c:\\users\\jcb\\onedrive\\desktop\\final c2 server tut\\2. team server-20260219t171250z-1-001\\2. team server\\10. frameworkaftervideo5-211209-110217\\demoframework\\teamserver\\services\\iagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4645FB8-AF68-445A-A8E3-4F226E9A549D}|TeamServer\\TeamServer.csproj|solutionrelative:teamserver\\services\\iagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HttpListener.cs",
+              "DocumentMoniker": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\Models\\Listeners\\HttpListener.cs",
+              "RelativeDocumentMoniker": "TeamServer\\Models\\Listeners\\HttpListener.cs",
+              "ToolTip": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\Models\\Listeners\\HttpListener.cs",
+              "RelativeToolTip": "TeamServer\\Models\\Listeners\\HttpListener.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T17:06:10.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HttpCommModule.cs",
+              "DocumentMoniker": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\Agent\\Models\\HttpCommModule.cs",
+              "RelativeDocumentMoniker": "Agent\\Models\\HttpCommModule.cs",
+              "ToolTip": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\Agent\\Models\\HttpCommModule.cs",
+              "RelativeToolTip": "Agent\\Models\\HttpCommModule.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T16:27:18.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TeamServer",
+              "DocumentMoniker": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\TeamServer.csproj",
+              "RelativeDocumentMoniker": "TeamServer\\TeamServer.csproj",
+              "ToolTip": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\TeamServer.csproj",
+              "RelativeToolTip": "TeamServer\\TeamServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-20T15:41:14.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AesEncryption.cs",
+              "DocumentMoniker": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\ApiModules\\Crypto\\AesEncryption.cs",
+              "RelativeDocumentMoniker": "ApiModules\\Crypto\\AesEncryption.cs",
+              "ToolTip": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\ApiModules\\Crypto\\AesEncryption.cs",
+              "RelativeToolTip": "ApiModules\\Crypto\\AesEncryption.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T16:06:01.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiModules",
+              "DocumentMoniker": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\ApiModules\\ApiModules.csproj",
+              "RelativeDocumentMoniker": "ApiModules\\ApiModules.csproj",
+              "ToolTip": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\ApiModules\\ApiModules.csproj",
+              "RelativeToolTip": "ApiModules\\ApiModules.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-20T16:07:45.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\Agent\\Program.cs",
+              "RelativeDocumentMoniker": "Agent\\Program.cs",
+              "ToolTip": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\Agent\\Program.cs",
+              "RelativeToolTip": "Agent\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T15:10:24.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\appsettings.json",
+              "RelativeDocumentMoniker": "TeamServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\appsettings.json",
+              "RelativeToolTip": "TeamServer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-20T15:36:45.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HttpListenerController.cs",
+              "DocumentMoniker": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\Models\\Listeners\\HttpListenerController.cs",
+              "RelativeDocumentMoniker": "TeamServer\\Models\\Listeners\\HttpListenerController.cs",
+              "ToolTip": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\Models\\Listeners\\HttpListenerController.cs",
+              "RelativeToolTip": "TeamServer\\Models\\Listeners\\HttpListenerController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T15:15:35.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiKeyMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\Middleware\\ApiKeyMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "TeamServer\\Middleware\\ApiKeyMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\Middleware\\ApiKeyMiddlewareExtensions.cs",
+              "RelativeToolTip": "TeamServer\\Middleware\\ApiKeyMiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T15:50:37.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\Startup.cs",
+              "RelativeDocumentMoniker": "TeamServer\\Startup.cs",
+              "ToolTip": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\Startup.cs",
+              "RelativeToolTip": "TeamServer\\Startup.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T15:51:03.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListenersController.cs",
+              "DocumentMoniker": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\Controllers\\ListenersController.cs",
+              "RelativeDocumentMoniker": "TeamServer\\Controllers\\ListenersController.cs",
+              "ToolTip": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\Controllers\\ListenersController.cs",
+              "RelativeToolTip": "TeamServer\\Controllers\\ListenersController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T15:56:05.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiKeyMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\Middleware\\ApiKeyMiddleware.cs",
+              "RelativeDocumentMoniker": "TeamServer\\Middleware\\ApiKeyMiddleware.cs",
+              "ToolTip": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\Middleware\\ApiKeyMiddleware.cs",
+              "RelativeToolTip": "TeamServer\\Middleware\\ApiKeyMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T15:41:56.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RequiresApiKeyAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\Middleware\\RequiresApiKeyAttribute.cs",
+              "RelativeDocumentMoniker": "TeamServer\\Middleware\\RequiresApiKeyAttribute.cs",
+              "ToolTip": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\Middleware\\RequiresApiKeyAttribute.cs",
+              "RelativeToolTip": "TeamServer\\Middleware\\RequiresApiKeyAttribute.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T15:52:38.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\Models\\Agents\\Agent.cs",
+              "RelativeDocumentMoniker": "TeamServer\\Models\\Agents\\Agent.cs",
+              "ToolTip": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\Models\\Agents\\Agent.cs",
+              "RelativeToolTip": "TeamServer\\Models\\Agents\\Agent.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T15:20:35.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\Program.cs",
+              "RelativeDocumentMoniker": "TeamServer\\Program.cs",
+              "ToolTip": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\Program.cs",
+              "RelativeToolTip": "TeamServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T15:09:44.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AgentsController.cs",
+              "DocumentMoniker": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\Controllers\\AgentsController.cs",
+              "RelativeDocumentMoniker": "TeamServer\\Controllers\\AgentsController.cs",
+              "ToolTip": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\Controllers\\AgentsController.cs",
+              "RelativeToolTip": "TeamServer\\Controllers\\AgentsController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T15:54:36.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAgentService.cs",
+              "DocumentMoniker": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\Services\\IAgentService.cs",
+              "RelativeDocumentMoniker": "TeamServer\\Services\\IAgentService.cs",
+              "ToolTip": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\TeamServer\\Services\\IAgentService.cs",
+              "RelativeToolTip": "TeamServer\\Services\\IAgentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T15:14:08.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

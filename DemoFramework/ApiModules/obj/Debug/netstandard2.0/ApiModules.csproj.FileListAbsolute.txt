@@ -1,0 +1,20 @@
+C:\Users\Daniel\source\repos\DemoFramework\ApiModules\bin\Debug\netstandard2.0\ApiModules.deps.json
+C:\Users\Daniel\source\repos\DemoFramework\ApiModules\bin\Debug\netstandard2.0\ApiModules.dll
+C:\Users\Daniel\source\repos\DemoFramework\ApiModules\bin\Debug\netstandard2.0\ApiModules.pdb
+C:\Users\Daniel\source\repos\DemoFramework\ApiModules\obj\Debug\netstandard2.0\ApiModules.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\DemoFramework\ApiModules\obj\Debug\netstandard2.0\ApiModules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\DemoFramework\ApiModules\obj\Debug\netstandard2.0\ApiModules.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\DemoFramework\ApiModules\obj\Debug\netstandard2.0\ApiModules.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\DemoFramework\ApiModules\obj\Debug\netstandard2.0\ApiModules.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\DemoFramework\ApiModules\obj\Debug\netstandard2.0\ApiModules.dll
+C:\Users\Daniel\source\repos\DemoFramework\ApiModules\obj\Debug\netstandard2.0\ApiModules.pdb
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\ApiModules\bin\Debug\netstandard2.0\ApiModules.deps.json
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\ApiModules\bin\Debug\netstandard2.0\ApiModules.dll
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\ApiModules\bin\Debug\netstandard2.0\ApiModules.pdb
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\ApiModules\obj\Debug\netstandard2.0\ApiModules.csproj.AssemblyReference.cache
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\ApiModules\obj\Debug\netstandard2.0\ApiModules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\ApiModules\obj\Debug\netstandard2.0\ApiModules.AssemblyInfoInputs.cache
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\ApiModules\obj\Debug\netstandard2.0\ApiModules.AssemblyInfo.cs
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\ApiModules\obj\Debug\netstandard2.0\ApiModules.csproj.CoreCompileInputs.cache
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\ApiModules\obj\Debug\netstandard2.0\ApiModules.dll
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\ApiModules\obj\Debug\netstandard2.0\ApiModules.pdb

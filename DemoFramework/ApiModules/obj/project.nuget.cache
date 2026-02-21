@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/t/vz49bgRQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jcb\\OneDrive\\Desktop\\Final c2 server tut\\2. Team Server-20260219T171250Z-1-001\\2. Team Server\\10. FrameworkafterVideo5-211209-110217\\DemoFramework\\ApiModules\\ApiModules.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcb\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jcb\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

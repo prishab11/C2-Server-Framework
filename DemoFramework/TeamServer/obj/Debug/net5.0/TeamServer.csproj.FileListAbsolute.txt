@@ -1,0 +1,68 @@
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\bin\Debug\net5.0\appsettings.json
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\bin\Debug\net5.0\TeamServer.exe
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\bin\Debug\net5.0\TeamServer.deps.json
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\bin\Debug\net5.0\TeamServer.runtimeconfig.json
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\bin\Debug\net5.0\TeamServer.runtimeconfig.dev.json
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\bin\Debug\net5.0\TeamServer.dll
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\bin\Debug\net5.0\ref\TeamServer.dll
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\bin\Debug\net5.0\TeamServer.pdb
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\bin\Debug\net5.0\ApiModules.dll
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\bin\Debug\net5.0\ApiModules.pdb
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\obj\Debug\net5.0\staticwebassets\TeamServer.StaticWebAssets.Manifest.cache
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\obj\Debug\net5.0\staticwebassets\TeamServer.StaticWebAssets.xml
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\obj\Debug\net5.0\scopedcss\bundle\TeamServer.styles.css
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.RazorTargetAssemblyInfo.cache
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.csproj.CopyComplete
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.dll
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\obj\Debug\net5.0\ref\TeamServer.dll
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.pdb
+C:\Users\Daniel\source\repos\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.genruntimeconfig.cache
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\bin\Debug\net5.0\appsettings.json
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\bin\Debug\net5.0\TeamServer.StaticWebAssets.xml
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\bin\Debug\net5.0\TeamServer.exe
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\bin\Debug\net5.0\TeamServer.deps.json
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\bin\Debug\net5.0\TeamServer.runtimeconfig.json
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\bin\Debug\net5.0\TeamServer.runtimeconfig.dev.json
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\bin\Debug\net5.0\TeamServer.dll
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\bin\Debug\net5.0\TeamServer.pdb
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\bin\Debug\net5.0\ApiModules.dll
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\bin\Debug\net5.0\ApiModules.pdb
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.csproj.AssemblyReference.cache
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.AssemblyInfoInputs.cache
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.AssemblyInfo.cs
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.csproj.CoreCompileInputs.cache
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.RazorTargetAssemblyInfo.cache
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\obj\Debug\net5.0\scopedcss\bundle\TeamServer.styles.css
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\obj\Debug\net5.0\staticwebassets\TeamServer.StaticWebAssets.Manifest.cache
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\obj\Debug\net5.0\staticwebassets\TeamServer.StaticWebAssets.Pack.cache
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\obj\Debug\net5.0\staticwebassets\msbuild.TeamServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\obj\Debug\net5.0\staticwebassets\msbuild.build.TeamServer.props
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.TeamServer.props
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.TeamServer.props
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.csproj.Up2Date
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.dll
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\obj\Debug\net5.0\refint\TeamServer.dll
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.pdb
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\obj\Debug\net5.0\TeamServer.genruntimeconfig.cache
+C:\Users\jcb\OneDrive\Desktop\Final c2 server tut\2. Team Server-20260219T171250Z-1-001\2. Team Server\10. FrameworkafterVideo5-211209-110217\DemoFramework\TeamServer\obj\Debug\net5.0\ref\TeamServer.dll
